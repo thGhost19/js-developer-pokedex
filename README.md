@@ -53,7 +53,7 @@ details.html?number=25
 
 ### Visualização
 
-![Detalhes do Pikachu](https://user-images.githubusercontent.com/thghost19/preview.png)
+![Detalhes do Blastoise]([https://user-images.githubusercontent.com/thghost19/preview.png](https://raw.githubusercontent.com/thGhost19/js-developer-pokedex/main/preview.png))
 
 ## Estilização
 
